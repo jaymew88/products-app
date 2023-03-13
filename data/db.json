@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Soap Box",
+      "price": "22.00",
+      "description": "Soap Box - 5 bars, natural, essential oils, soap, soaps, body soap, bar soap, handmade soap, gifts for him, gifts for dad, assorted soaps"
+    },
+    {
+      "id": 2,
+      "title": "Soap Box",
+      "price": "22.00",
+      "description": "Soap Box - 5 bars, natural, essential oils, soap, soaps, body soap, bar soap, handmade soap, gifts for him, gifts for dad, assorted soaps"
+    },
+    {
+      "id": 3,
+      "title": "Soap Box",
+      "price": "22.00",
+      "description": "Soap Box - 5 bars, natural, essential oils, soap, soaps, body soap, bar soap, handmade soap, gifts for him, gifts for dad, assorted soaps"
+    },
+    {
+      "id": 4,
+      "title": "Soap Box",
+      "price": "22.00",
+      "description": "Soap Box - 5 bars, natural, essential oils, soap, soaps, body soap, bar soap, handmade soap, gifts for him, gifts for dad, assorted soaps"
+    },
+    {
+      "id": 5,
+      "title": "Soap Box",
+      "price": "22.00",
+      "description": "Soap Box - 5 bars, natural, essential oils, soap, soaps, body soap, bar soap, handmade soap, gifts for him, gifts for dad, assorted soaps"
+    },
+    {
+      "id": 6,
+      "title": "Soap Box",
+      "price": "22.00",
+      "description": "Soap Box - 5 bars, natural, essential oils, soap, soaps, body soap, bar soap, handmade soap, gifts for him, gifts for dad, assorted soaps"
+    },
+    {
+      "id": 7,
+      "title": "Soap Box",
+      "price": "22.00",
+      "description": "Soap Box - 5 bars, natural, essential oils, soap, soaps, body soap, bar soap, handmade soap, gifts for him, gifts for dad, assorted soaps"
+    },
+    {
+      "id": 8,
+      "title": "Soap Box",
+      "price": "22.00",
+      "description": "Soap Box - 5 bars, natural, essential oils, soap, soaps, body soap, bar soap, handmade soap, gifts for him, gifts for dad, assorted soaps"
+    }
+  ]
+}
